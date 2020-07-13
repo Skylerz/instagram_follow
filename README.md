@@ -13,7 +13,7 @@ git clone https://github.com/Skylerz/instagram_follow.git
 ```
 4. run my python file with this command
 ```
-python test.py -u "username_here" -p "password_here" -settings "test_credentials.json"
+python follow.py -u "username_here" -p "password_here" -settings "test_credentials.json"
 ```
 
 will push some updates soon with csv/json integration
