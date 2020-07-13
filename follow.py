@@ -134,16 +134,8 @@ if __name__ == '__main__':
 
     print('All ok')
 
+    # change accounts here
     accounts = [
-        '_sachin__s.r', 
-        'msmerriemac', 
-        'ceebaayyy', 
-        'kangizzu', 
-        'bless1155', 
-        'areybutton', 
-        'shubu_350', 
-        '_sowbhagya', 
-        'paige__coleman'
     ]
 
     follow_acc(accounts)
